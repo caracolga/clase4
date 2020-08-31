@@ -1,2 +1,2 @@
 # clase4
-DNO075 - Clase 4, ejercicio wordless
+DNO075 - Clase 4
